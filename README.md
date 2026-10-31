@@ -19,7 +19,7 @@ Weep no more, for salvation hath arrived upon the wind!
 ## Ironsights
 - Magpul MBUS 3
 
-This shitpack includes textures and .blend files (already set up) so you can copy and paste stuffs onto your guns. Don't ask me how.
+# This shitpack includes textures and .blend files (already set up) so you can copy and paste stuffs onto your guns. Don't ask me how.
 
 <img width="1630" height="1439" alt="image" src="https://github.com/user-attachments/assets/925d5ed0-30ad-42f8-850e-4d415c6ee011" />
 <img width="1899" height="1439" alt="image" src="https://github.com/user-attachments/assets/fea6cefe-a29f-4d6d-b9b8-e61796228461" />
