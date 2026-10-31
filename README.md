@@ -19,8 +19,15 @@ Weep no more, for salvation hath arrived upon the wind!
 ## Ironsights
 - Magpul MBUS 3
 
+## More will be added later on.
+
 # This shitpack includes textures and .blend files (already set up) so you can copy and paste stuffs onto your guns. Don't ask me how.
 
+# Credits:
+- YURXA for the original EXPS3 model
+- smolpash for the original XPS3 model
+- ParallaxGameStudios/Cody Cudmore for the original G33, G33 STS Mount, SpecterDR, ACOG TA31, Aimpoint CompM4s and PRO models
+  
 <img width="1630" height="1439" alt="image" src="https://github.com/user-attachments/assets/925d5ed0-30ad-42f8-850e-4d415c6ee011" />
 <img width="1899" height="1439" alt="image" src="https://github.com/user-attachments/assets/fea6cefe-a29f-4d6d-b9b8-e61796228461" />
 <img width="1268" height="845" alt="scope 2" src="https://github.com/user-attachments/assets/f43ced21-ea28-498b-b242-050208738712" />
