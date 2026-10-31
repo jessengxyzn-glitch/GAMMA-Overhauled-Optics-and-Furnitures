@@ -1,4 +1,4 @@
-# GAMMA-Optics-Overhaul-and-Furnitures
+# STALKER GAMMA - Overhauled Optics and Furnitures. Oof.
 
  Shameless donation link if you want to support me with buying more stuffs and rework them for STALKER GAMMA:
  
