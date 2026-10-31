@@ -1,4 +1,5 @@
 # GAMMA-Optics-Overhaul-and-Furnitures
+## Shameless donation link if you want to support me with buying more stuffs and rework them for STALKER GAMMA: https://ko-fi.com/sleepyjesse
 
 Hark, weary wanderers of the cursed Zone!
 Dost thou peer through rusted iron and cloudy glass, letting thy lead fly wide like a jester’s arrow into the toxic mist? Do thy firearms lack the comely wooden stocks and iron grips befitting a true warrior of the wastes?
