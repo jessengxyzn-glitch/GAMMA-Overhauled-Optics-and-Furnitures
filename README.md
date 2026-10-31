@@ -1,4 +1,4 @@
-<img width="1268" height="845" alt="scope 3" src="https://github.com/user-attachments/assets/5f936be9-ff97-43fb-a096-21c79765eeb4" /><img width="1268" height="845" alt="scope 2" src="https://github.com/user-attachments/assets/0bc4844a-fc0f-4f41-8af6-8a6e77bcdaca" /># GAMMA-Optics-Overhaul-and-Furnitures
+# GAMMA-Optics-Overhaul-and-Furnitures
 
 Hark, weary wanderers of the cursed Zone!
 Dost thou peer through rusted iron and cloudy glass, letting thy lead fly wide like a jester’s arrow into the toxic mist? Do thy firearms lack the comely wooden stocks and iron grips befitting a true warrior of the wastes?
