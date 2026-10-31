@@ -5,7 +5,9 @@ Dost thou peer through rusted iron and cloudy glass, letting thy lead fly wide l
 
 Weep no more, for salvation hath arrived upon the wind!
 
-Includes:
+# Includes:
+
+## Optics
 - EoTech EXPS3 Black/FDE
 - EoTech XPS3 Black. Well worn
 - Eotech G33 w/ STS mount
@@ -13,6 +15,9 @@ Includes:
 - SpecterDR 1/4x
 - Aimpoint CompM4s
 - Aimpoint PRO
+
+## Ironsights
+- Magpul MBUS 3
 
 This shitpack includes textures and .blend files (already set up) so you can copy and paste stuffs onto your guns. Don't ask me how.
 
