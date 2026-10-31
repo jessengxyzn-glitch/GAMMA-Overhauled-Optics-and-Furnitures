@@ -1,5 +1,7 @@
 # GAMMA-Optics-Overhaul-and-Furnitures
+
  Shameless donation link if you want to support me with buying more stuffs and rework them for STALKER GAMMA:
+ 
  https://ko-fi.com/sleepyjesse
 
 ## Hark, weary wanderers of the cursed Zone!
